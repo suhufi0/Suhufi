@@ -1,2 +1,3 @@
-# Suhufi
-https://www.instagram.com/suhufi_gdk
+instahack
+[*] Hack instagram accounts use bruteforce
+[*] for more proxy - go to https://www.torvpn.com/en/procy-list
