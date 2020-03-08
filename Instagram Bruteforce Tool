@@ -1,0 +1,15 @@
+$ pkg update
+$ pkg upgrade
+$ pkg install python
+$ pkg install git
+$ pkg install nano
+$ git clone https://github.com/suhufi_gdk/instahack.git
+$ cd inatahack
+$ ls
+$ chmod +x *
+$ ls
+$ pip install requests 
+$ pip install -r requirement 
+$ pip install beautifulsoup4
+$ ls
+$ python hackinsta.py
